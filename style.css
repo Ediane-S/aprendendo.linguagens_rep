@@ -1,0 +1,19 @@
+
+.conteiner-inicial {
+    background-color: aqua;
+}
+
+.logo{
+    background-color: rgb(91, 172, 66);
+}
+
+.listra {
+    background-color: orange;
+}
+.conteiner-inicial a{
+    background-color: blueviolet;
+}
+
+.conteiner a {
+    background-color: bisque;
+}
